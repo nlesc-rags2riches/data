@@ -1,5 +1,6 @@
 # Data
-Data relevant for the [Rags2Riches](https://research-software-directory.org/projects/rags2riches) project.
+
+Some of the aata relevant for the [Rags2Riches](https://research-software-directory.org/projects/rags2riches) project. More project data can be found on [osf.io](https://osf.io/p4w65/files/osfstorage).
 
 ## bhic-98144.json.gz
 
