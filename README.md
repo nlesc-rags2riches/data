@@ -1,6 +1,7 @@
 # Data
 
 Some of the data relevant for the [Rags2Riches](https://research-software-directory.org/projects/rags2riches) project. More project data can be found on [osf.io](https://osf.io/p4w65/files/osfstorage).
+We use `git lfs` to handle the large files. Check `.gitattributes`.
 
 ## bhic-98144.json.gz
 
@@ -13,3 +14,8 @@ Metadata for 98,144 deceased persons with scans in the Memories van Successie of
       "death_place": "Leende",
       "scan_uri": "https://images.memorix.nl/bhic/download/fullsize/3f803bd6-44d4-872f-4969-98b0659ebe4a.jpg"
     }
+
+## scan-alignment.tar.gz
+
+From Auke's e-mail. Includes the alignment.csv, images, and `scan_alignment.md` (renamed to `README.md`).
+Untar with `tar -zxf scan-alignment.tar.gz`.
